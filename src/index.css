@@ -1,0 +1,20 @@
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.02;
+}
+
+body{
+    padding: 20px;
+    margin: 0;
+}
+
+img{
+    display: block;
+}
+
+ul,p,h1,h2,h3,h4{
+    margin: 0;
+    padding: 0;
+}
